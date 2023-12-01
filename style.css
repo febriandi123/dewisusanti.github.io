@@ -1,0 +1,36 @@
+.navbar {
+    padding-right: 1rem;
+    padding-left: 1rem;
+    position: absolute;
+    
+}
+
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #f7d9e8;
+  ba
+}
+#about {
+  background-color: plum;
+}
+#project {
+  background-color: #f7d9e8;
+}
+#project {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.container.ro {
+    margin: 2rem;
+
+}
+section {
+    padding-top: 5rem;
+}
+.gallery-img {
+  width: 100%;
+}
+#gallery .row > * {
+  pad: 0;
+}
